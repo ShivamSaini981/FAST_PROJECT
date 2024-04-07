@@ -55,3 +55,4 @@ def take_comment(paramter:check_api_post)->str:
 
     except Exception as err:
         return err
+        print("error")
